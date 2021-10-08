@@ -49,6 +49,6 @@ public class BallController : MonoBehaviour
         rb_ball.isKinematic = false;
     }
 
-
+    
 
 }
